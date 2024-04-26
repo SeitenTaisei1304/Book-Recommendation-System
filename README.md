@@ -1,1 +1,1 @@
-This is my achine laearning cmobined with AIi project of BOOK recommendation system where it uses AI and machine learning to recommend books automatically based onteh reader and for new users based on the local and global prefference of the users based on map settings and ranking system
+This is my Machine learning combined with AI project of a BOOK recommendation system where it uses AI and machine learning to recommend books automatically based on the reader and for new users based on the local and global preference of the users based on map settings and ranking system
