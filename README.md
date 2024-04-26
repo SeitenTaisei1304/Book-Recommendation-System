@@ -1,1 +1,2 @@
 This is my Machine learning combined with AI project of a BOOK recommendation system where it uses AI and machine learning to recommend books automatically based on the reader and for new users based on the local and global preference of the users based on map settings and ranking system
+![Screenshot 2024-04-22 142113](https://github.com/SeitenTaisei1304/Book-Recommendation-System/assets/103646045/26b0e4ca-d87f-44a9-bd17-dd189ff28c4a)
